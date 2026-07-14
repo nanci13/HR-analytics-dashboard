@@ -75,7 +75,6 @@ Dataset (if included)
 > Add screenshots of your dashboard here for better visualization.
 <img width="794" height="497" alt="Screenshot 2026-07-14 213532" src="https://github.com/user-attachments/assets/2bf34f56-70b0-42d8-90e5-00d629cd70fe" />
 
-<img width="873" height="493" alt="image" src="https://github.com/user-attachments/assets/9c40b037-93a2-428f-ac23-a8f7329335ee" />
 
 
 ---
