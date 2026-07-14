@@ -105,7 +105,7 @@ This dashboard enables HR teams to:
 
 ## 👨‍💻 Author
 
-**Divya Sharma**
+**Nanci Rawat**
 
 Bachelor of Computer Applications (Artificial Intelligence & Data Science)
 
